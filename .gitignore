@@ -1,0 +1,12 @@
+# install them yourself
+node_modules/
+# will be created by node app
+server/
+out/
+# the injector (and eventually obfuscator)
+java/
+# don't commit server files
+files/
+.vs/*
+
+.vscode/
